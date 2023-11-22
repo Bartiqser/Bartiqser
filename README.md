@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">I am currently studying in high school to become a full stack developer</h3>
 
-<h3>🙋‍♂️ Let me share a bit about myself!</h3>
+<h3 align="center">🙋‍♂️ Let me share a bit about myself!</h3>
 
 - 🌱 **I’m currently studying both front-end and back-end development**
 
