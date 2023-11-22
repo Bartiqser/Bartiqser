@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartiqser&label=Profile%20views&color=0e75b6&style=flat" alt="bartiqser" /> </p>
 
+- 🙋‍♂️ **Let me share a bit about myself!**
+
+- 🌱 **I’m currently studying both front-end and back-end development**
+
+- 🔭 **In my free time I like to mess around with cars**
+
+- 🏐 **I'm also a big fan of getting active by doing sports e.g. Volleyball and Football**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
